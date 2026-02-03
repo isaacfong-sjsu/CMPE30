@@ -1,4 +1,3 @@
-#include <iostream>
 
 int main() {
     const int cols = 11;       
@@ -31,4 +30,5 @@ int main() {
     }
 
     return 0;
+
 }
